@@ -1,0 +1,12 @@
+Archive créée le 18/11/2025 09:49:37
+
+1/10 dm1 (Notebook Python)
+2/10 Structure_Lineaire-File (Notebook Python)
+3/10 Structure_Lineaire-Pile (Notebook Python)
+4/10 Structure_Lineaire-Liste (Notebook Python)
+5/10 POO - Synthèse Programmation Orientée Objet (Notebook Python)
+6/10 POO Introduction Programmation Orientée Objet (Notebook Python)
+7/10 Recommandations_de_programmation-Exercice_notes (Notebook Python)
+8/10 Network-TP2 (Notebook Python)
+9/10 Notion_de_Paradigmes-Introduction (Notebook Python)
+10/10 Network-TP1 (Notebook Python)
